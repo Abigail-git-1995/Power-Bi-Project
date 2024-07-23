@@ -7,6 +7,14 @@ This project offers diverse insights into **Data professionals**, such as their 
 
 The project encompassed the following tasks:
 
-### Data transformation / Data cleansing
-### Data analysis / Creation of visualizations
+## Data Cleaning / Data Transformation
+- Examine the dataset for missing values, duplicates, or anomalies.
+- Used Power Query Editor to clean the data (remove duplicates, fill missing values, etc.).
+- Ensure that columns have the correct data types (e.g., date columns).
+## DAX Calculations / Data Visualization
+- Use DAX (Data Analysis Expressions) to create measures.
+- Building visuals using the fields and measures created.
+- Arrange visuals on the canvas to create an interactive dashboard.
+
+
 ![](professinal.png)
